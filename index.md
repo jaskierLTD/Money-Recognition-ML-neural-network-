@@ -6,7 +6,6 @@ The training duration with corei5 and Intel HD Graphics 4000 1536 MB - 36 hours.
 The validation accuracy - 97%.
 Project is designed for iOS 12 (will be deployed on September).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Swift 4.0, iOS 12
 ![alt text](https://github.com/jaskierLTD/Money-Recognition-ML-neural-network-/blob/master/Screenshot%202018-07-08%20at%2014.30.26.png)
