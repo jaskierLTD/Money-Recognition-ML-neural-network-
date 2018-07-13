@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub JaskierLTD (Oleksandr Zheliezniak) webpage!!!
 
-You can use the [editor on GitHub](https://github.com/jaskierLTD/Money-Recognition-ML-neural-network-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use see the project based on money recognition(23 countries) and has a trained model based on 27 000 images.
+The training duration with corei5 and Intel HD Graphics 4000 1536 MB - 36 hours.
+
+The validation accuracy - 97%.
+Project is designed for iOS 12 (will be deployed on September).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Swift 4.0, iOS 12
+![alt text](https://github.com/jaskierLTD/Money-Recognition-ML-neural-network-/blob/master/Screenshot%202018-07-08%20at%2014.30.26.png)
+![alt text](https://github.com/jaskierLTD/Money-Recognition-ML-neural-network-/blob/master/Screenshot%202018-07-08%20at%2014.30.43.png)
+![alt text](https://github.com/jaskierLTD/Money-Recognition-ML-neural-network-/blob/master/Screenshot%202018-07-08%20at%2014.31.03.png)
+![alt text](https://github.com/jaskierLTD/Money-Recognition-ML-neural-network-/blob/master/Screenshot%202018-07-08%20at%2014.31.12.png)
+![alt text](https://github.com/jaskierLTD/Money-Recognition-ML-neural-network-/blob/master/Screenshot%202018-07-08%20at%2014.31.30.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaskierLTD/Money-Recognition-ML-neural-network-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having questions? Write to jaskierLTD@gmail.com or try to contact via UPWORK if you want to order an iOS project:
+https://www.upwork.com/freelancers/~015a52121ebe912405
