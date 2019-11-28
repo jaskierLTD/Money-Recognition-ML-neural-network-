@@ -4,7 +4,7 @@ You can use see the project based on money recognition(23 countries) and has a t
 The training duration with corei5 and Intel HD Graphics 4000 1536 MB - 36 hours.
 
 The validation accuracy - 97%.
-Project is designed for iOS 12 (will be deployed on September).
+Project is designed for iOS 12.
 
 
 ### Swift 4.0, iOS 12
@@ -17,5 +17,4 @@ Project is designed for iOS 12 (will be deployed on September).
 
 ### Support or Contact
 
-Having questions? Write to jaskierLTD@gmail.com or try to contact via UPWORK if you want to order an iOS project:
-https://www.upwork.com/freelancers/~015a52121ebe912405
+Having questions? Write to jaskierLTD@gmail.com
